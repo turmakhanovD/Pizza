@@ -1,0 +1,8 @@
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\bin\Debug\Database1.mdf
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\bin\Debug\Database1_log.ldf
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\bin\Debug\PizzaApp.Model.dll
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\bin\Debug\PizzaApp.Model.pdb
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\obj\Debug\PizzaApp.Model.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\obj\Debug\PizzaApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\obj\Debug\PizzaApp.Model.dll
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Model\obj\Debug\PizzaApp.Model.pdb

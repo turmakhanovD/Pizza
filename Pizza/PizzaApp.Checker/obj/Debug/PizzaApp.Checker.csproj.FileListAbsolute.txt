@@ -1,0 +1,6 @@
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\bin\Debug\PizzaApp.Checker.dll
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\bin\Debug\PizzaApp.Checker.pdb
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\obj\Debug\PizzaApp.Checker.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\obj\Debug\PizzaApp.Checker.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\obj\Debug\PizzaApp.Checker.dll
+C:\Users\ТурмаханД\source\repos\PizzaApp\Pizza\PizzaApp.Checker\obj\Debug\PizzaApp.Checker.pdb
